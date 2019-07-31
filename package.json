@@ -2,7 +2,7 @@
   "name": "lustosaemoura-server",
   "version": "1.0.0",
   "description": "Restfull api of posts lustosaemoura project",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "dev": "nodemon server.js",
     "start": "node server.js",
